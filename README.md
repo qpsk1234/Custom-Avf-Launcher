@@ -1,3 +1,5 @@
+★★★★ちゃんと動作しないのとGPU実装は難があるので凍結です★★★★
+
 # Custom AVF Launcher for Android 16+
 
 Android Virtualization Framework (AVF) を使用して、カスタムOS（Linux等）を仮想マシンとして起動・管理する Android 16+ 向けのランチャーアプリです。
